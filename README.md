@@ -1,4 +1,4 @@
-<img src="panda code.jpg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="panda code.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
