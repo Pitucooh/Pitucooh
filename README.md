@@ -9,6 +9,7 @@
 
 ## Contato
 - 📧 Email: [joaopedrosouzacruz@gmail.com](mailto:joaopedrosouzacruz@gmail.com)
+- 🎓 Email institucional: [23.00057-0@maua.br](mailto:23.00057-0@maua.br)
 - 🔗 LinkedIn: [João Pedro de Souza Cruz](https://www.linkedin.com/in/joão-pedro-de-souza-cruz-34a2731b4/)
 
 ## Projetos
