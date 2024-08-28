@@ -4,7 +4,7 @@
 
 ## Sobre mim
 - 🎓 Sou estudante de Ciência da Computação no Instituto Mauá de Tecnologia.
-- 🌱 Atualmente, estou aprendendo Python, Java, JavaScript, HTML, CSS, C, SQL e R.
+- 🌱 Atualmente, estou aprendendo Python, Java, JavaScript, Dart, C, SQL e R.
 - 🔍 Estou explorando diferentes áreas da programação para descobrir minha paixão.
 
 ## Contato
