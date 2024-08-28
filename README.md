@@ -1,4 +1,4 @@
-<img src="panda code.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="laptop.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 # Olá, eu sou João! 👋
 
