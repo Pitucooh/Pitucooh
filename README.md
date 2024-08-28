@@ -23,6 +23,11 @@
   - 📚  Site desenvolvido em parceria com a Usina Eco-Cultural
   - 🔧  HTML, CSS, Visual Studio Code.
   - 🌐  [Link para o Repositório](https://github.com/Pitucooh/PII-UsinaEco-Cultural)
+
+### ⚕️ Aplicativo de análise de exames médicos
+  - 📚  Aplicativo desenvolvido em parceria com o Hospital São Camilo, para análise de exames médicos.
+  - 🔧  Python, JavaScript, React-Native.
+  - 🌐  [Link para o Repositório](https://github.com/Pitucooh/pii-gestao-saude/)
     
 ## Linguagens
 - 🐍 Python, ☕ Java, 🌐 JavaScript, 🖥️ HTML, 🎨 CSS, ⚙️ C, 📊 SQL, 📊 R
