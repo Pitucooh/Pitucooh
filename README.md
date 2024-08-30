@@ -1,8 +1,8 @@
 <img src="laptop.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-# Olá, eu sou João! 👋
+ # Olá, eu sou João! 👋
 
-## Sobre mim
+ ## Sobre mim
 - 🎓 Sou estudante de Ciência da Computação no Instituto Mauá de Tecnologia.
 - 🌱 Atualmente, estou aprendendo Python, Java, JavaScript, Dart, C, SQL e R.
 - 🔍 Estou explorando diferentes áreas da programação para descobrir minha paixão.
@@ -30,10 +30,10 @@
   - 🌐  [Link para o Repositório](https://github.com/Pitucooh/pii-gestao-saude/)
     
 ## Linguagens
-- 🐍 Python, ☕ Java, 🌐 JavaScript, 🖥️ HTML, 🎨 CSS, ⚙️ C, 📊 SQL, 📊 R
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   
 ## Ferramentas
-- 📝 Editor de código: Visual Studio Code
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Estatísticas do GitHub
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pitucooh&show_icons=true&theme=radical)](https://github.com/Pitucooh)
